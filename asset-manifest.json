@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tensorflow-facemesh-app/static/css/main.05c79720.css",
+    "main.js": "/tensorflow-facemesh-app/static/js/main.ae0bec17.js",
+    "static/js/453.9f565455.chunk.js": "/tensorflow-facemesh-app/static/js/453.9f565455.chunk.js",
+    "index.html": "/tensorflow-facemesh-app/index.html",
+    "main.05c79720.css.map": "/tensorflow-facemesh-app/static/css/main.05c79720.css.map",
+    "main.ae0bec17.js.map": "/tensorflow-facemesh-app/static/js/main.ae0bec17.js.map",
+    "453.9f565455.chunk.js.map": "/tensorflow-facemesh-app/static/js/453.9f565455.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05c79720.css",
+    "static/js/main.ae0bec17.js"
+  ]
+}
