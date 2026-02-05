@@ -1,11 +1,7 @@
 # Tensorflow Facemesh App Project
 
-## In the project directory, run:
+## In your browser, enter the URL:
 
-### `npm start`
+### https://ethankapuya.github.io/tensorflow-facemesh-app
 
-To run the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To run the app.
